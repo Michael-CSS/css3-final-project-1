@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-
+shaogklnls
 using namespace std;
 
 string dec_to_binary(int dec);
